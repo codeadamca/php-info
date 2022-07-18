@@ -1,4 +1,4 @@
-# php-info
+# Using the phpinfo Function
 
 When you're coding PHP, debugging can be difficult. By default when a PHP error occues your browser will likely display a `This pags isn't working` message. This message is not too helpful. 
 
