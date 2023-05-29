@@ -26,10 +26,12 @@ If you are using hosting to test your PHP files you can change the same setting 
 
 Once you are in the PHP settings look for an option related to displaying PHP errors, turn it on, and refresh your page. 
 
-## Tutorial requirements:
+***
 
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
-* [Filezilla](https://filezilla-project.org/) (or any FTP program)
+## Repo Resources
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Filezilla](https://filezilla-project.org/)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
